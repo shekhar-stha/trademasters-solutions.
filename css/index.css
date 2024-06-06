@@ -12265,7 +12265,7 @@ nav .nav-link:hover {
   font-size: 19px;
   color: #fcfef7;
   width: 100%;
-  text-shadow: 0.1em 0.1em 0.2em #348392, 0 0.2em 0.5em #348392, 0 0 1em rgba(0,0,0,0.7);
+  text-shadow: 0 0 8px rgba(0, 0, 0, 0.5);
 }
 @media (max-width: 768px) {
   .nav-hero .hero .info-div .hero-description {
