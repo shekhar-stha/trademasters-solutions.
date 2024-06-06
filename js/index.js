@@ -751,17 +751,17 @@ function setSpanishLabels() {
   })
 
   applicationTitle.textContent = "Formulario de Solicitud de Empleo";
-  applicationInfo.textContent = "Es la política de JGA ELECTRIC LLC proporcionar igualdad de oportunidades de empleo a todos los solicitantes y empleados sin tener en cuenta ninguna condici6n legalmente protegida como raza, color, religión, genero, origen nacional, edad, discapacidad o estado de veterano."
+  applicationInfo.textContent = "Es la política de Trademasters solutions proporcionar igualdad de oportunidades de empleo a todos los solicitantes y empleados sin tener en cuenta ninguna condici6n legalmente protegida como raza, color, religión, genero, origen nacional, edad, discapacidad o estado de veterano."
 
   cardTitle.textContent = "CERTIFICACIÓN";
   cardSubtitle.textContent = "Deberes y Responsabilidades de la Empresa de Contratación de Personal.";
 
   cardInfo.innerHTML = `
         <p class="px-2 card-info">
-        Certifico que la informaci6n proporcionada en esta solicitud es verdadera y exacta. Entiendo que proporcionar informaci6n falsa o engañosa será la base para el rechazo de mi solicitud, o si comienza el empleo, la terminaci6n inmediata. Autorizo a JGA ELECTRIC LLC a ponerse en contacto con antiguos empleadores y organizaciones educativas con respecto a mi empleo y educaci6n. Autorizo a mis antiguos empleadores y organizaciones educativas a comunicar plena y libremente informaci6n con respecto a mi empleo, asistencia y calificaciones anteriores. Autorizo a aquellas personas designadas como referencias para comunicar plena y libremente informaci6n sobre mi empleo y educaci6n anteriores. Si se crea una relaci6n de empleo, entiendo que a menos que se me ofrezca un contrato de empleo escrito especifico firmado en nombre de la organizacion, la relaci6n de empleado será «a voluntad». En otras palabras, la relaci6n será enteramente voluntaria en la naturaleza, y yo o mi empleador será capaz de terminar la relaci6n laboral en cualquier momento y sin causa.
+        Certifico que la informaci6n proporcionada en esta solicitud es verdadera y exacta. Entiendo que proporcionar informaci6n falsa o engañosa será la base para el rechazo de mi solicitud, o si comienza el empleo, la terminaci6n inmediata. Autorizo a Trademasters solutions a ponerse en contacto con antiguos empleadores y organizaciones educativas con respecto a mi empleo y educaci6n. Autorizo a mis antiguos empleadores y organizaciones educativas a comunicar plena y libremente informaci6n con respecto a mi empleo, asistencia y calificaciones anteriores. Autorizo a aquellas personas designadas como referencias para comunicar plena y libremente informaci6n sobre mi empleo y educaci6n anteriores. Si se crea una relaci6n de empleo, entiendo que a menos que se me ofrezca un contrato de empleo escrito especifico firmado en nombre de la organizacion, la relaci6n de empleado será «a voluntad». En otras palabras, la relaci6n será enteramente voluntaria en la naturaleza, y yo o mi empleador será capaz de terminar la relaci6n laboral en cualquier momento y sin causa.
         Con el aviso apropiado, tendré la discreci6n total y completa para poner fin a la relaci6n laboral cuando elija y por razones de mi elecci6n.
         </br></br>
-        Del mismo modo, mi empleador tendrá derecho. además, ningún agente, representante, o empleado de JGA ELECTRIC LLC, excepto en un contrato de trabajo escrito especifico firmado en nombre de la organizaci6n por si, tiene el poder de alterar o variar la naturaleza voluntaria de la relaci6n de trabajo. HE LEIDO DETENIDAMENTE LA CERTIFICACION ANTERIOR Y COMPRENDO Y ACEPTO SUS TERMINOS.
+        Del mismo modo, mi empleador tendrá derecho. además, ningún agente, representante, o empleado de Trademasters solutions, excepto en un contrato de trabajo escrito especifico firmado en nombre de la organizaci6n por si, tiene el poder de alterar o variar la naturaleza voluntaria de la relaci6n de trabajo. HE LEIDO DETENIDAMENTE LA CERTIFICACION ANTERIOR Y COMPRENDO Y ACEPTO SUS TERMINOS.
         
         </p>
     `;
@@ -785,7 +785,7 @@ function setEnglishLabels() {
   })
 
   applicationTitle.textContent = "Job Application Form";
-  applicationInfo.textContent = "It is the policy of JGA ELECTRIC LLC to provide equal employment opportunity to all applicants and employees without regard to any legally protected status such as race, color, religion, gender, national origin, age, disability, or veteran status.";
+  applicationInfo.textContent = "It is the policy of Trademasters solutions to provide equal employment opportunity to all applicants and employees without regard to any legally protected status such as race, color, religion, gender, national origin, age, disability, or veteran status.";
 
 
   cardTitle.textContent = "CERTIFICATION";
@@ -820,7 +820,7 @@ function setEnglishLabels() {
   I certify that the information provided in this application is true and
   accurate. I understand that providing false or misleading information
   shall be the basis for denial of my application, or immediate
-  termination. I authorize JGA ELECTRIC LLC to contact former employers
+  termination. I authorize Trademasters solutions to contact former employers
   and educational organizations regarding my employment and education
   history. I authorize my former employers and education organizations to
   fully freely communicate information regarding my employment,
@@ -835,7 +835,7 @@ function setEnglishLabels() {
   proper notice, I will have full and complete discretion to terminate the
   employment relationship at my option and for "Reasons of my choosing.
   Likewise, my employer will be entitled. Furthermore, no agent,
-  representative, or employee of JGA ELECTRİC LLC, except in a specific
+  representative, or employee of Trademasters solutions, except in a specific
   written employment contract signed on behalf of the organization itself,
   it has the power to alter or vary the voluntary nature of the
   employment.

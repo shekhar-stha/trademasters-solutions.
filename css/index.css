@@ -12092,19 +12092,18 @@ nav {
 }
 nav .navbar-brand {
   max-width: calc(100% - 5rem);
-  /* width: 13rem; */
-  width: auto;
+  width: 13rem;
+  /* width: auto; */
 }
 nav .navbar-brand img {
   width: 100%;
   object-fit: contain;
-  border-radius: 12px;
+  border-radius: 6px;
 }
 
 @media (min-width: 992px) {
   nav .navbar-brand img{
   max-height: 12rem;
-  width: auto;
   }
 }
 
@@ -12721,7 +12720,7 @@ nav .nav-link:hover {
 }
 
 footer {
-  background-color: #085664;
+  background-color: #081535;
   padding: 3rem 0;
 }
 footer .footer-grid {
@@ -12754,6 +12753,7 @@ footer .footer-col a {
 }
 footer .footer-col img {
   padding: 0 1rem;
+  max-width: calc(100% - 5rem);
 }
 footer .footer-col .fa-brands {
   font-size: 24px;
